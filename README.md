@@ -239,16 +239,4 @@ Demonstrates ability to train deep learning models, deploy them in production, a
 - RGB format maintained
 - Excel lookup for botanical information
 
----
-
-## Contact
-
-**Chaitanya** - MS Computer Science @ Northeastern University
-
-- LinkedIn: [your-profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@northeastern.edu
-
----
-
 **Built to learn CNNs in production. If this helps you learn too, give it a star! ⭐**
